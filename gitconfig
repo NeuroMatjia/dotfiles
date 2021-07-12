@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = francismathion@gmail.com
+	name = Francis Mathion
